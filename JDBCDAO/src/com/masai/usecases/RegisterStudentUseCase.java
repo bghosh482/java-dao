@@ -2,8 +2,8 @@ package com.masai.usecases;
 
 import java.util.Scanner;
 
-import com.masa.dao.StudentDao;
-import com.masa.dao.StudentDaoImpl;
+import com.masai.dao.StudentDao;
+import com.masai.dao.StudentDaoImpl;
 
 public class RegisterStudentUseCase {
 
